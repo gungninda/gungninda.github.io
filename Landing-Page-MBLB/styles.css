@@ -305,6 +305,7 @@
   left: 0;
   background-image: url(img/product/basalt-stones.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
  }
 
  .card-img2 {
@@ -315,6 +316,7 @@
   top: 0;
   left: 0;
   background-image: url(img/product/concrete-sand.jpg);
+  background-size: cover;
  }
 
  .card-img3 {
@@ -325,6 +327,7 @@
   top: 0;
   left: 0;
   background-image: url(img/product/kerikil.jpg);
+  background-size: cover;
  }
 
  .card-img4 {
@@ -335,6 +338,7 @@
   top: 0;
   left: 0;
   background-image: url(img/product/River-Rock.jpg);
+  background-size: cover;
  }
 
  .card-img5 {
@@ -345,6 +349,7 @@
   top: 0;
   left: 0;
   background-image: url(img/product/pasir\ batu.jpg);
+  background-size: cover;
  }
 
  .card-img6 {
@@ -355,6 +360,7 @@
   top: 0;
   left: 0;
   background-image: url(img/product/pasir\ batu.jpg);
+  background-size: cover;
  }
 
  /*Hover*/
